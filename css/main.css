@@ -1,0 +1,16 @@
+.debug > div > div{
+    background-color: #006cfa;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.debug > div > div > div{
+    background-color: #00e165;
+}
+
+.debug div{
+    min-height: 30px;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+}
